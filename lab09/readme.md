@@ -5,4 +5,4 @@
 А что, если мы хотим именно возвращать данные из процедуры? То есть не писать в какую-то таблицу, а сразу получать результат при вызове процедуры? Такая возможность есть, и она будет рассмотрена в данной лабораторной работе.
 
 
-### [Как писать процедуры?](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09/how-to-create-procedures)
+### [Как писать процедуры?](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09/how-to-create-procedures.md)
