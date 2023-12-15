@@ -111,7 +111,7 @@ group by g.nomenclature
 ```
 Запрос готов.
 
-2. Поместим данный SQL-запрос под явный курсор. Для этого сделать следующую запись в области локальных переменных:
+2. Поместим данный SQL-запрос под явный курсор. Для этого нужно сделать следующую запись в области локальных переменных:
 ```sql
 declare op_cursor cursor for (select g.nomenclature, max(o.op_date) as last_date
                               from operation o join goods g using (id_goods)
