@@ -30,16 +30,20 @@
 
 Формирование SQL-запроса сильно похоже на то, что было описано в [Задаче №3](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md), в разделе [2.ii. Решение основной задачи](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md#%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8).
 
-### Задача №2
+#### Задача №2
 
 Сильно похожа на [Задачу №3](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md). Проверка входных данных необязательна.
 
-### Задача №6
+#### Задача №6
 
-Упрощенная версия [Задачи №7](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_7.md). Если из процедуры нужно вернуть только одно значение, то тогда можно опустить цикл for и просто сделать
+Упрощенная версия [Задачи №7](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_7.md). Если из процедуры нужно вернуть только одно значение, то тогда можно опустить цикл for и просто сделать следующее:
 ```sql
 execute statement :operation into :output_variable;
 suspend;
 ```
 Процедура по-прежнему вернет таблицу, просто она будет содержать одну строку и один столбец, то есть одно выходное значение.
+
+#### Задача №8
+
+Проверку входных данных можно опустить.
 
