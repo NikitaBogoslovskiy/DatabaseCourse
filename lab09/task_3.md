@@ -186,7 +186,7 @@ select *
 from operation o
 where o.id_wh = :warehouse_id and o.op_date between :start_date and :end_date
 ```
-2. Затем сгруппируем все операции по товарам, которые участвовали в данных операциях:
+2. Затем сгруппируем все операции по товарам, которые участвовали в данных операциях. То есть сформируем группы операций для каждого товара:
 ```sql
 select *
 from operation o
