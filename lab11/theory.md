@@ -41,7 +41,7 @@ active before insert position 0
 3. Определить порядок сработки - до или после изменений
 4. Дать имя (почему это идет в конце - узнаете в примерах)
 
-Сама логика обработки будет подробнее рассмотрена в примерах, поэтому на текущий момент имеем:
+Сама логика обработки будет подробнее рассмотрена в разделе [Примеры (практика)](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/practice.md), поэтому на текущий момент имеем:
 ```sql
 CREATE OR ALTER trigger new_trigger for operation
 active before insert position 0
@@ -50,5 +50,4 @@ begin
   /* Будущий код триггера, его основная логика */
 end
 ```
-Примеры рассматриваются в следующем разделе - [Примеры (практика)](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/practice.md)
 
