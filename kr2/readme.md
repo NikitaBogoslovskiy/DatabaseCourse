@@ -11,7 +11,7 @@
 Задачи будут затрагивать материал [Лабораторной работы №10](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab10). Типовые задачи примерно такие же, как и для Задачи №2 в [Самостоятельной работе №4](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
 
 ### 4. Задача на текстовые запросы
-Эта задача будет затрагивать кусочек материала [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся умения выполнять запросы, записанные в виде строки. В частности, задачи 6 и 7, причем мы довольно подробно разбирали [Задачу №7](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_7.md).
+Эта задача будет затрагивать кусочек материала [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся умения выполнять запросы, записанные в виде строки. В частности, это задачи 6 и 7 Лабораторной работы №9. [Задачу №7](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_7.md) мы разбирали подробно, поэтому, если не помните, можете еще раз взглянуть.
 
 Помимо текстовых запросов здесь еще нужно будет вспомнить следующие функции:
 1. Функции повышения и понижения регистра строки - `upper` и `lower`.
