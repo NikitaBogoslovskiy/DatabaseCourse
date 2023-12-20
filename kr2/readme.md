@@ -5,7 +5,7 @@
 Задачи на процедуры будут затрагивать материал [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся написания процедур и возвращения таблиц - текстовых запросов здесь не будет. Типовые примеры примерно такие же, как и для Задачи №1 в [Самостоятельной работе №4](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
 
 ### 2. Задача на триггеры
-Типовые задачи на триггеры, по факту, разобраны в рамках [Лабораторной работы №11](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11), раздела [Примеры (практика)](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/practice.md).
+Задачи на триггеры будут касаться материала [Лабораторной работы №11](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11), причем типовые задачи уже, по факту, разобраны в рамках раздела этой лабораторной работы - [Примеры (практика)](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/practice.md).
 
 ### 3. Задача на курсоры
 Задачи будут затрагивать материал [Лабораторной работы №10](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab10). Типовые задачи примерно такие же, как и для Задачи №2 в [Самостоятельной работе №4](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
