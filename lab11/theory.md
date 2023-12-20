@@ -11,7 +11,7 @@
 
 Далее мы переходим в жесткий режим программиста, чтобы писать триггер в виде кода (опять же всегда можно использовать графический интерфейс для настройки триггера, просто в данном документе мы будем делать это через код):
 
-![](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/materials/compile.jpg)
+![](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/materials/go_to_manual_mode.jpg)
 
 Перед нами будет следующая заготовка:
 ```sql
