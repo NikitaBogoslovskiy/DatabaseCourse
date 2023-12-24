@@ -2,13 +2,13 @@
 Контрольная работа будет состоять из четырех задач, каждая из которых освещает какую-то одну из тем.
 
 ### 1. Задача на процедуры
-Задачи на процедуры будут затрагивать материал [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся написания процедур и возвращения таблиц - текстовых запросов здесь не будет. Типовые примеры примерно такие же, как и для Задачи №1 в [Самостоятельной работе №4](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
+Задачи на процедуры будут затрагивать материал [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся написания процедур и возвращения таблиц - текстовых запросов здесь не будет. Типовые примеры примерно такие же, как и для Задачи №1 в [Самостоятельной работе №5](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
 
 ### 2. Задача на триггеры
 Задачи на триггеры будут касаться материала [Лабораторной работы №11](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11), причем типовые задачи уже, по факту, разобраны в рамках раздела этой лабораторной работы - [Примеры (практика)](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab11/practice.md).
 
 ### 3. Задача на курсоры
-Задачи на курсоры будут затрагивать материал [Лабораторной работы №10](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab10). Типовые задачи примерно такие же, как и для Задачи №2 в [Самостоятельной работе №4](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
+Задачи на курсоры будут затрагивать материал [Лабораторной работы №10](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab10). Типовые задачи примерно такие же, как и для Задачи №2 в [Самостоятельной работе №5](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/sr5).
 
 ### 4. Задача на текстовые запросы
 Эти задачи будут затрагивать кусочек материала [Лабораторной работы №9](https://github.com/NikitaBogoslovskiy/DatabaseCourse/tree/main/lab09), касающийся умения выполнять запросы, записанные в виде строки. В частности, это задачи 6 и 7 Лабораторной работы №9. [Задачу №7](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_7.md) мы разбирали подробно, поэтому, если не помните, можете еще раз взглянуть.
