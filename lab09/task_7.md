@@ -87,7 +87,7 @@ declare variable operation varchar(200);
 execute statement :operation
 ```
 
-В результате мы получим таблицу, которую нужно как-то передать внешнему контексту. Мы уже рассматривали подобную построковую передачу таблицы с помощью цикла for в [Задаче №3](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md), в пункте ["2.iii. Вывод результирующей таблицы"](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B9_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B). Здесь все то же самое, только мы проходимся циклом for не по стандартному запросу, а по выполнению текстового запроса:
+В результате мы получим таблицу, которую нужно как-то передать внешнему контексту. Мы уже рассматривали подобно построковую передачу таблицы с помощью цикла for в [Задаче №3](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md), в пункте ["2.iii. Вывод результирующей таблицы"](https://github.com/NikitaBogoslovskiy/DatabaseCourse/blob/main/lab09/task_3.md#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4_%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B5%D0%B9_%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B). Здесь все то же самое, только мы проходимся циклом for не по стандартному запросу, а по выполнению текстового запроса:
 ```sql
 for execute statement :operation 
 into :st2_value, :st2_min, :st2_max 
